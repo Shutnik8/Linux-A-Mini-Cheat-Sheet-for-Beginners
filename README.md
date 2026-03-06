@@ -2,7 +2,7 @@
 [Linux: A Mini Cheat Sheet for Beginners](https://shutnik8.github.io/Linux-A-Mini-Cheat-Sheet-for-Beginners/)
 
 
-Интерактивная шпаргалка по базовым командам Linux для новичков: яркий интерфейс, «живой» псевдо‑терминал, подсказки и модальные окна с описанием команд. [linuxconfig](https://linuxconfig.org/linux-commands-cheat-sheet)
+Интерактивная шпаргалка по базовым командам Linux для новичков: яркий интерфейс, «живой» псевдо‑терминал, подсказки и модальные окна с описанием команд.
 
 ## Особенности
 
